@@ -559,9 +559,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
 
-### 🤖 Built with ❤️ using AI
-
-**Powered by Groq's Lightning-Fast Llama 3.3 70B**
+### 🤖 Built with ❤️ using AI **Powered by Groq's Lightning-Fast Llama 3.3 70B**
 
 ⭐ Star this repo if you find it helpful!
 
@@ -569,8 +567,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 </div>
 
----
 
-**Last Updated**: November 2024  
-**Version**: 2.0  
-**Status**: Production Ready ✅
